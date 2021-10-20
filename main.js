@@ -22,7 +22,7 @@
 // const numbers = ["ראשון","שני","שלישי","רביעי"]
 // const changeArrayNumbers =[]
 // let counter = 0 
-// // .......................... by forEach
+// .......................... by forEach
 // function addIndex(array) {
 //      array.forEach((numberItem)=>{
 //      changeArrayNumbers.push(`${numberItem}.${counter}`)
@@ -42,10 +42,12 @@
 // }
 // console.log(numbers);
 // console.log(addIndex(["ראשון","שני","שלישי","רביעי"]));
+
 /////////////////////////////// exe 4 ////////////////////////////////
+
 // const numbers = [1,2,3,4,5,6,7,8,9]
 // const evenNumbers = []
-// // .......................... by forEach
+// .......................... by forEach
 // function evenNumber(numbers){
 //     numbers.forEach((numberItem )=> {
 //         if(numberItem%2==0)
@@ -81,7 +83,7 @@
 // function addHi(car) {
 //     for (const carKey in car){
 //         newCar[carKey] = `${carKey}:${car[carKey]} HI `
-//         // newCar +
+//   newCar +
 //     }
 //     return newCar
 // }
@@ -116,6 +118,7 @@
 // console.log(addSir(studentArray));
 
 /////////////////////////////// exe 8 ////////////////////////////////
+
 // const studentArray=[
 //     {
 //          name:"izhak",
